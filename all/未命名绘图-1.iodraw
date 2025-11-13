@@ -49,6 +49,12 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-27" value="接收事务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="460" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-28" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.012;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="451" as="sourcePoint" />
+            <mxPoint x="600" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
