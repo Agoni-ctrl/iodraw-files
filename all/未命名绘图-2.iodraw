@@ -62,7 +62,7 @@
           <mxGeometry x="640" y="545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-61" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="825" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="950" y="734" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-65" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,6 +111,12 @@
             <mxPoint x="739" y="460.5" as="sourcePoint" />
             <mxPoint x="839" y="460.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YIO2dRM313xVdhjlN60b-21" value="1.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="396" y="441.5" width="104" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIO2dRM313xVdhjlN60b-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;接收事务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YIO2dRM313xVdhjlN60b-21">
+          <mxGeometry y="30" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
