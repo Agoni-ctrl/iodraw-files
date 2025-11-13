@@ -307,12 +307,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KXOwwpUWUGQWCABnR88D" name="第 3 页">
-    <mxGraphModel dx="1050" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="1117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-1" value="人事工资管理系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-76" width="674" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
