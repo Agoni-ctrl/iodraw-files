@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-35" value="库存清单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="861" y="319" width="60" height="30" as="geometry" />
+          <mxGeometry x="676" y="363" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="YIO2dRM313xVdhjlN60b-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -126,6 +126,17 @@
         </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-27" value="采购员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="431.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIO2dRM313xVdhjlN60b-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1008" y="600" as="sourcePoint" />
+            <mxPoint x="1058" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1058" y="600" />
+              <mxPoint x="1008" y="550" />
+              <mxPoint x="1038" y="524" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
