@@ -8,7 +8,7 @@
           <mxGeometry x="739" y="661" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="505" y="290" width="25" height="40" as="geometry" />
+          <mxGeometry x="607" y="291" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.574;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="566" y="420" as="sourcePoint" />
-            <mxPoint x="565.27" y="328.7199999999999" as="targetPoint" />
+            <mxPoint x="670.23" y="428.28" as="sourcePoint" />
+            <mxPoint x="669.5" y="336.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-35" value="库存清单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
