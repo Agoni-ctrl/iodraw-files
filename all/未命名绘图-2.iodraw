@@ -110,18 +110,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-59" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="500" as="sourcePoint" />
-            <mxPoint x="780" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="695" y="570" />
-              <mxPoint x="715" y="600" />
-              <mxPoint x="755" y="620" />
-              <mxPoint x="780" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-60" value="订货信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="545" width="60" height="30" as="geometry" />
         </mxCell>
@@ -152,8 +140,8 @@
             <mxPoint x="895" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIO2dRM313xVdhjlN60b-1" value="D2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="775" y="585" width="60" height="30" as="geometry" />
+        <mxCell id="YIO2dRM313xVdhjlN60b-1" value="D1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="295" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
