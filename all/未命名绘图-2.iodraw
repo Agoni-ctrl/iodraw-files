@@ -255,7 +255,10 @@
         <mxCell id="yptoiJbeZHL3Vxr_CN8L-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="562" as="sourcePoint" />
-            <mxPoint x="528" y="226" as="targetPoint" />
+            <mxPoint x="528" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="693" y="388" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
