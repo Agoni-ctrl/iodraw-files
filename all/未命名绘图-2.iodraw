@@ -384,10 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-26" value="根据所在部门查看职工" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-26" y="143" width="11" height="199" as="geometry" />
-        </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-27" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="136" y="153" width="14" height="120" as="geometry" />
+          <mxGeometry x="-11" y="143" width="20" height="199" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
