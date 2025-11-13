@@ -82,10 +82,10 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-35" value="库存清单" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cO3OepcjoAuBKyQcFrwY-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cO3OepcjoAuBKyQcFrwY-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="460" as="sourcePoint" />
-            <mxPoint x="610" y="410" as="targetPoint" />
+            <mxPoint x="610" y="460" as="sourcePoint" />
+            <mxPoint x="700" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
