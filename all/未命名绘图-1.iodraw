@@ -200,6 +200,16 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-74" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cO3OepcjoAuBKyQcFrwY-71">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829" y="617" as="sourcePoint" />
+            <mxPoint x="879" y="567" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="879" y="617" />
+              <mxPoint x="829" y="567" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
