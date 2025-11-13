@@ -103,9 +103,6 @@
         <mxCell id="YIO2dRM313xVdhjlN60b-2" value="仓库管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="191" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIO2dRM313xVdhjlN60b-3" value="1.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="393" y="430" width="65" height="63" as="geometry" />
-        </mxCell>
         <mxCell id="YIO2dRM313xVdhjlN60b-10" value="1.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="528" y="431.5" width="139" height="60" as="geometry" />
         </mxCell>
