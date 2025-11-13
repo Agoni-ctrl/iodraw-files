@@ -106,6 +106,9 @@
         <mxCell id="cO3OepcjoAuBKyQcFrwY-41" value="处理订货" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705" y="460" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cO3OepcjoAuBKyQcFrwY-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="300" width="105" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
