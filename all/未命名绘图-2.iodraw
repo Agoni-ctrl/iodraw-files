@@ -637,7 +637,7 @@
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-53" value="&lt;font&gt;MapGIS统一数据管理与服务体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="36" y="483" width="1024" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzcSreQ_zFp3B8k7P6YF-54" value="&lt;font&gt;国土资源“一张图”核心数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontFamily=楷体;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="fzcSreQ_zFp3B8k7P6YF-54" value="&lt;font&gt;国土资源“一张图”核心数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontFamily=楷体;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="37" y="653" width="1028" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fzcSreQ_zFp3B8k7P6YF-57" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#003366;" parent="1" vertex="1">
