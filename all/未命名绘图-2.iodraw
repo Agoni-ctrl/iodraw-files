@@ -44,7 +44,7 @@
           <mxGeometry x="757" y="435" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-43" value="D2" style="text;strokeColor=#FFFFFF;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="971" y="621" width="50" height="30" as="geometry" />
+          <mxGeometry x="965" y="675" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO3OepcjoAuBKyQcFrwY-45" value="订货信息" style="text;strokeColor=#FFFFFF;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1015" y="621" width="60" height="30" as="geometry" />
