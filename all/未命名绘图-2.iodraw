@@ -347,19 +347,19 @@
             <mxPoint x="368.5" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-10" value="职工管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-10" value="职工管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="-20" y="32" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-11" value="考勤管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-11" value="考勤管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="71" y="32" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-12" value="档案管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-12" value="档案管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="157" y="32" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-13" value="工资管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-13" value="工资管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="243" y="32" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-14" value="事项记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-14" value="事项记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="339" y="32" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-15" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" edge="1">
@@ -368,7 +368,7 @@
             <mxPoint x="464" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-16" value="其他事记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-16" value="其他事记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="435" y="32" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-17" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" edge="1">
@@ -377,7 +377,7 @@
             <mxPoint x="554.5" y="-36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-18" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-18" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;direction=south;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="525" y="32" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Fcb9SYCxLwSJ6bWtlS7K-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;fontColor=#000000;fontFamily=楷体;" parent="1" edge="1">
