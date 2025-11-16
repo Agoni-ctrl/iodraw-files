@@ -2017,8 +2017,8 @@
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="684" y="235" as="sourcePoint" />
-            <mxPoint x="751" y="226" as="targetPoint" />
+            <mxPoint x="677" y="234" as="sourcePoint" />
+            <mxPoint x="744" y="225" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
