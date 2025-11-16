@@ -1426,10 +1426,10 @@
           <mxGeometry x="352" y="881" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="492" y="881" width="120" height="60" as="geometry" />
+          <mxGeometry x="481" y="881" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="884" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="881" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="842" y="873" width="120" height="60" as="geometry" />
