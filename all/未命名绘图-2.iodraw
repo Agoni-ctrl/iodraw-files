@@ -2045,6 +2045,9 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-4" value="实时监测面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="612" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-5" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="449" y="269" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
