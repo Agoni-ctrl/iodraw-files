@@ -1188,7 +1188,7 @@
           <mxGeometry x="856.5" y="465.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="627" y="693" width="173" height="126" as="geometry" />
+          <mxGeometry x="627" y="697" width="173" height="126" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-59" value="Enhanced&lt;div&gt;Cross-Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="659" y="763" width="120" height="35" as="geometry" />
@@ -1196,7 +1196,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="799" y="798" as="sourcePoint" />
-            <mxPoint x="864" y="725" as="targetPoint" />
+            <mxPoint x="864" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-61" value="SE Block&lt;div&gt;Channel attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
@@ -1244,6 +1244,9 @@
               <mxPoint x="716" y="646.99" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-73" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="719" width="160" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
