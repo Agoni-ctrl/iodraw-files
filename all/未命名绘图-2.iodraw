@@ -1350,16 +1350,16 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-3" target="ZTIpC-SCZ-LwR9Vcp66S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-3" value="“多源数据采集”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-3" value="“多源数据采集”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="337" y="131" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-4" target="ZTIpC-SCZ-LwR9Vcp66S-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-4" value="&quot;大数据工程“&lt;div&gt;（Kafka/Pulsar)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-4" value="&quot;大数据工程“&lt;div&gt;（Kafka/Pulsar)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="537" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-6" value="&quot;数据增强与遮挡合成管道“" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-6" value="&quot;数据增强与遮挡合成管道“" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="737" y="131" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-8" target="ZTIpC-SCZ-LwR9Vcp66S-12">
