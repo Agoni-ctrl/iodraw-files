@@ -832,7 +832,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="359" y="417" width="456" height="273" as="geometry" />
+          <mxGeometry x="318" y="674" width="456" height="273" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="295" y="591" width="622" height="291" as="geometry" />
@@ -889,7 +889,7 @@
           <mxGeometry x="516" y="218" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-24" value="CNN Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="420" y="531" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="411" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-28" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#FFCCFF;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="728" y="510" width="35" height="105" as="geometry" />
@@ -898,7 +898,7 @@
           <mxGeometry x="711" y="510" width="35" height="105" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-29" value="CNN Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="537" y="435" width="96" height="30" as="geometry" />
+          <mxGeometry x="529" y="371" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-30" value="FAA Dual Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="711" y="630" width="60" height="30" as="geometry" />
