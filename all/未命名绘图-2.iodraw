@@ -2029,7 +2029,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-jXpYRiimk6jbcNW_uK2" name="第 13 页">
-    <mxGraphModel dx="2100" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" background="#4D4D4D" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -2259,6 +2259,9 @@
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-53" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="734" y="683" width="141" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-56" value="CNN 特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1308" width="165" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
