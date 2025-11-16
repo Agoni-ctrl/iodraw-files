@@ -1408,12 +1408,12 @@
           <mxGeometry x="667" y="521.5" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="553" y="872" width="120" height="55" as="geometry" />
+          <mxGeometry x="539" y="778" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="563" y="655" as="sourcePoint" />
-            <mxPoint x="603" y="779" as="targetPoint" />
+            <mxPoint x="599" y="779" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
