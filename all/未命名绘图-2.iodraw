@@ -1396,7 +1396,7 @@
           <mxGeometry x="1519" y="241" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="1666" y="508" width="767" height="270" as="geometry" />
+          <mxGeometry x="1861" y="70" width="887" height="324" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="612" y="709" width="86" height="30" as="geometry" />
