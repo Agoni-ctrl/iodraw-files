@@ -1886,6 +1886,12 @@
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-19" value="环形数据缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="974" y="394" width="95" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="542" y="570" as="sourcePoint" />
+            <mxPoint x="592" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
