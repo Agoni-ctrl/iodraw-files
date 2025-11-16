@@ -997,6 +997,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OGeujnyxi8GGOt_VcmpK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="175" width="120" height="225" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
