@@ -980,6 +980,12 @@
         <mxCell id="mk28AzorWt4VzZ8kX_iX-14" value="Refinement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="967" y="311" width="78" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="803" y="495" as="sourcePoint" />
+            <mxPoint x="1089" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
