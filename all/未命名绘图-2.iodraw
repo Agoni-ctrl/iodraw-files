@@ -1002,7 +1002,7 @@
           <mxGeometry x="219" y="477" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="157" y="600" width="189" height="103" as="geometry" />
+          <mxGeometry x="53" y="668" width="189" height="103" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-7" value="CNN Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="600" width="78.5" height="30" as="geometry" />
@@ -1010,10 +1010,10 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-8" value="&amp;nbsp;Patch Embeding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="513" width="65" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431" y="614" as="sourcePoint" />
-            <mxPoint x="481" y="564" as="targetPoint" />
+            <mxPoint x="286" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
