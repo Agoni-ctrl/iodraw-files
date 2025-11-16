@@ -2135,6 +2135,15 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="494" y="364" width="141" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="535" as="sourcePoint" />
+            <mxPoint x="607" y="587" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="458" y="586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
