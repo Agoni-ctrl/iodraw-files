@@ -2036,8 +2036,8 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="100" width="307" height="259" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="89" height="85" as="geometry" />
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="89" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
