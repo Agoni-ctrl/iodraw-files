@@ -1813,7 +1813,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lXPJPaOxeCWfFW4FGdnS" name="第 11 页">
-    <mxGraphModel dx="1050" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1835,7 +1835,7 @@
             <mxPoint x="468" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" vertex="1" parent="1">
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="472" y="129" width="195" height="221" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
