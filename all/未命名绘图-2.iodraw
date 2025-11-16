@@ -1324,8 +1324,8 @@
         <mxCell id="OGeujnyxi8GGOt_VcmpK-134" value="C,1,1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="442" y="319" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OGeujnyxi8GGOt_VcmpK-135" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="571" y="425" width="60" height="30" as="geometry" />
+        <mxCell id="OGeujnyxi8GGOt_VcmpK-135" value="OAA Module" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="706" y="310" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
