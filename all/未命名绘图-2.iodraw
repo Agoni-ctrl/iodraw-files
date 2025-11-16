@@ -2169,7 +2169,10 @@
           <mxGeometry x="646" y="825" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-34" value="Dinov2 语义分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="651" y="900" width="165" height="57" as="geometry" />
+          <mxGeometry x="646" y="901" width="165" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-35" value="CNN 特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="646" y="977" width="165" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
