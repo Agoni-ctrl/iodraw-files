@@ -2335,6 +2335,16 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1183" y="1191" width="141" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1095" y="1406.5" as="sourcePoint" />
+            <mxPoint x="1208" y="1382.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1114" y="1412.5" />
+              <mxPoint x="1178" y="1412.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
