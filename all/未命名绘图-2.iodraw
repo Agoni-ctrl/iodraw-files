@@ -1419,22 +1419,22 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="612" y="709" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="537" y="778" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-29" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-29" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="248" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="396" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="537" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="693" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-33" value="Dinov2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-33" value="Dinov2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="844" y="907" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-29" target="ZTIpC-SCZ-LwR9Vcp66S-28">
