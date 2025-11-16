@@ -1193,7 +1193,7 @@
             <mxPoint x="902" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-61" value="SE Block&lt;div&gt;Channel attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-61" value="SE Block&lt;div&gt;Channel attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="952" y="733" width="101" height="69" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-62" value="Residual&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
