@@ -1841,8 +1841,11 @@
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="160" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-8" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519.5" y="170" width="120" height="41" as="geometry" />
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-8" value="特征级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="508" y="237" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-9" value="特征级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="247" width="120" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
