@@ -2320,8 +2320,11 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-68" value="Redis 缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="953" y="1244" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-69" value="数据增强引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="572" y="1285" width="165" height="57" as="geometry" />
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-69" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="927" y="1382" width="165" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-70" value="数据增强引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="1507" width="165" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
