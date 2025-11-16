@@ -2223,12 +2223,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="891" y="759.75" as="sourcePoint" />
             <mxPoint x="1050" y="662" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="788" />
               <mxPoint x="997" y="749" />
             </Array>
           </mxGeometry>
