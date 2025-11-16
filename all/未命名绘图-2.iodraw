@@ -2159,7 +2159,7 @@
             <mxPoint x="575" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-31" value="视频帧提取引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="466" y="777" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
