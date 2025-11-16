@@ -944,7 +944,7 @@
         <mxCell id="mk28AzorWt4VzZ8kX_iX-6" value="ViT Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="499" y="272" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-7" value="ViT Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-7" value="CNN Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="499" y="351" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
