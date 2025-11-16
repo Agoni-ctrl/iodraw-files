@@ -1646,7 +1646,7 @@
           <mxGeometry x="314.5" y="159" width="576" height="194" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-2" value="数据与预处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="547" y="194" width="95" height="30" as="geometry" />
+          <mxGeometry x="546" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-3" target="ZTIpC-SCZ-LwR9Vcp66S-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1667,7 +1667,7 @@
           <mxGeometry x="1022" y="187" width="120" height="145" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-12" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="102" width="67" height="33" as="geometry" />
+          <mxGeometry x="1412" y="102" width="91" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1257" y="154.5" width="178" height="223.5" as="geometry" />
@@ -1703,7 +1703,7 @@
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2254" y="66" width="96" height="30" as="geometry" />
+          <mxGeometry x="2254" y="66" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2242" y="106" width="120" height="60" as="geometry" />
