@@ -1257,8 +1257,8 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-76" value="OAA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="671.5" y="625" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-77" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="824" y="709" width="60" height="30" as="geometry" />
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-77" value="RCP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="652" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
