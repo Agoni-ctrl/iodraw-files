@@ -1835,7 +1835,7 @@
             <mxPoint x="468" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="472" y="129" width="195" height="221" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -1847,9 +1847,9 @@
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-9" value="频域增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="291" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.979;exitY=0.557;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-6">
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="511" y="395" as="sourcePoint" />
+            <mxPoint x="667" y="251" as="sourcePoint" />
             <mxPoint x="722" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
