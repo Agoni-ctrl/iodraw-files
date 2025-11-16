@@ -1017,7 +1017,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="396" y="559" width="37" height="23" as="geometry" />
+          <mxGeometry x="396" y="559" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
