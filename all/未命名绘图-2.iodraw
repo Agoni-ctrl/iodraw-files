@@ -1182,10 +1182,10 @@
           <mxGeometry x="856.5" y="465.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="684" y="742" width="120" height="60" as="geometry" />
+          <mxGeometry x="667.5" y="697" width="173" height="146" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-59" value="Enhanced&lt;div&gt;Cross-Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="764" y="768" width="120" height="35" as="geometry" />
+          <mxGeometry x="694" y="761" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
