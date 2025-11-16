@@ -1213,8 +1213,8 @@
             <mxPoint x="1031" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OGeujnyxi8GGOt_VcmpK-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="666" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="OGeujnyxi8GGOt_VcmpK-96" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="192" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
