@@ -1338,6 +1338,9 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="336" y="74" width="397" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-2" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="78" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
