@@ -1172,10 +1172,10 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-53" value="Occlusion predictor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="986" y="538" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-54" value="Weight Adjustment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-54" value="Weight Adjustment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="1076" y="525.5" width="66" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-56" value="Concatenate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-56" value="Concatenate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1076" y="582" width="66" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-57" value="OAM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
