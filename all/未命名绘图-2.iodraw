@@ -1875,16 +1875,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="823" y="370" width="194" height="123" as="geometry" />
+          <mxGeometry x="785" y="366.5" width="309" height="123" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-17" value="自定义数据集类在线增强" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="834" y="398" width="81" height="60" as="geometry" />
+          <mxGeometry x="798" y="394" width="81" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-18" value="多进程并行预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="932" y="398" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-19" value="环形数据缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="682" y="523" width="120" height="60" as="geometry" />
+          <mxGeometry x="1008" y="401.5" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
