@@ -1699,7 +1699,7 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-22" value="“深度伪造检测核心模型（OcclusionShield)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1519" y="241" width="127" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
