@@ -1411,10 +1411,10 @@
           <mxGeometry x="2242" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="693" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="2412" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-33" value="Dinov2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="844" y="907" width="120" height="60" as="geometry" />
+          <mxGeometry x="2588" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-29" target="ZTIpC-SCZ-LwR9Vcp66S-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
