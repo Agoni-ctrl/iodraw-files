@@ -1079,6 +1079,9 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-29" value="Low-Freq(Global)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="218" y="768" width="123" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-30" value="Low-Freq(Global)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="786" width="123" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
