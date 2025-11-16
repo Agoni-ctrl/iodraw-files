@@ -1070,8 +1070,8 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-26" value="FAA Dual Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="772" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="594" width="52" height="42" as="geometry" />
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="389" y="593" width="49" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
