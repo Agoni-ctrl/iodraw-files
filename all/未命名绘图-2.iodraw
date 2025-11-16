@@ -2076,7 +2076,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="816" y="366" width="410" height="295" as="geometry" />
+          <mxGeometry x="816" y="366" width="410" height="282" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-11" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="836" y="483" width="120" height="60" as="geometry" />
@@ -2115,7 +2115,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-21" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="931" y="366" width="100" height="43" as="geometry" />
+          <mxGeometry x="969" y="360" width="100" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="846" y="493" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
