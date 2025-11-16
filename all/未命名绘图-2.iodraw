@@ -992,7 +992,7 @@
             <mxPoint x="1089" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="1088" y="311" width="55" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -1055,7 +1055,7 @@
             <mxPoint x="500" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-21" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#666666;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-21" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="504" y="479" width="35" height="134" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-22" value="CNN&amp;nbsp;&lt;div&gt;Encoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
@@ -1088,7 +1088,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-30" value="High-Freq(Artifact)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="218" y="806.5" width="123" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="640" y="519" width="123" height="99.5" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-34" value="Confidence Net" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1172,7 +1172,7 @@
             <mxPoint x="973" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="976" y="510" width="170" height="134" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-53" value="Occlusion predictor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
@@ -1205,7 +1205,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-62" value="Residual&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="1005" y="763" width="71" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-63" value="MLP" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-63" value="MLP" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="1108" y="737" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0;exitDx=25;exitDy=10;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-21" target="HTzmdh4SkAhHCpsI0pDs-52">
