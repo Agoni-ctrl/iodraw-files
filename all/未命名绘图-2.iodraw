@@ -1919,7 +1919,13 @@
           <mxGeometry x="579" y="164" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-3" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="272" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HstdYDX43-3D7oGHzne2-4" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="554" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HstdYDX43-3D7oGHzne2-5" value="Centering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="589" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
