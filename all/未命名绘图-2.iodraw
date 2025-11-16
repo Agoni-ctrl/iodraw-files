@@ -903,6 +903,9 @@
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-27" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#CCE5FF;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="567" y="510" width="35" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="a9pzLRzeGSHKNv2JGzhl-29" value="CNN Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="439" width="96" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
