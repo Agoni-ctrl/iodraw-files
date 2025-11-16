@@ -1054,9 +1054,6 @@
         <mxCell id="OGeujnyxi8GGOt_VcmpK-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="409" y="188" width="25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OGeujnyxi8GGOt_VcmpK-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;direction=east;rotation=20;" vertex="1" parent="1">
-          <mxGeometry x="406" y="236" width="25" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="OGeujnyxi8GGOt_VcmpK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="580" y="165" width="25" height="10" as="geometry" />
         </mxCell>
@@ -1103,7 +1100,7 @@
           <mxGeometry x="450" y="292" width="25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OGeujnyxi8GGOt_VcmpK-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="406" y="208" width="25" height="10" as="geometry" />
+          <mxGeometry x="409" y="206" width="25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OGeujnyxi8GGOt_VcmpK-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="508" y="182" width="25" height="10" as="geometry" />
