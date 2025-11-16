@@ -2123,8 +2123,11 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="592" y="502" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="503" width="120" height="60" as="geometry" />
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="602" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="598" y="685" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
