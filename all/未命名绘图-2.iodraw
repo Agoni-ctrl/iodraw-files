@@ -1895,6 +1895,15 @@
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-21" value="GPU持续稳定数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="543" y="398" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="542" y="570" as="sourcePoint" />
+            <mxPoint x="476" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
