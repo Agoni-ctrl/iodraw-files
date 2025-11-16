@@ -1267,7 +1267,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-80" value="CLS Token" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="439" y="598" width="60" height="30" as="geometry" />
+          <mxGeometry x="444" y="588.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-81" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="664" y="607" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
