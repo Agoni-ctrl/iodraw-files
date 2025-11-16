@@ -1676,13 +1676,18 @@
           <mxGeometry x="1258" y="145" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-15" value="频率敏感注意力&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（FSA)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="1492" y="649" width="120" height="41" as="geometry" />
+          <mxGeometry x="1303" y="291.5" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-16" value="遮挡感知注意力&lt;div&gt;（OAA）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1303" y="223" width="120" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="aKMo-l4YSSt4rG--EQTH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1393.3333333333335" y="463.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="1357" y="574" width="120" height="41" as="geometry" />
+          <mxGeometry x="1334" y="520" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-15" target="ZTIpC-SCZ-LwR9Vcp66S-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
