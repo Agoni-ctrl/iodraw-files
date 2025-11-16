@@ -1002,7 +1002,7 @@
           <mxGeometry x="323" y="465.5" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="83" y="510" width="189" height="103" as="geometry" />
+          <mxGeometry x="140" y="663" width="189" height="103" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-7" value="CNN Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="329" y="595" width="78.5" height="30" as="geometry" />
@@ -1068,7 +1068,7 @@
           <mxGeometry x="388" y="683" width="34" height="83" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-26" value="FAA Dual Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="781" width="60" height="30" as="geometry" />
+          <mxGeometry x="375" y="772" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
