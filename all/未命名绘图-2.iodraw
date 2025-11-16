@@ -2022,6 +2022,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HstdYDX43-3D7oGHzne2-26" value="sg" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
