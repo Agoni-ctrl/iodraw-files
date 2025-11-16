@@ -1217,10 +1217,10 @@
           <mxGeometry x="1035" y="224" width="67" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OGeujnyxi8GGOt_VcmpK-97" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="234" width="67" height="48" as="geometry" />
+          <mxGeometry x="1043" y="178" width="67" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OGeujnyxi8GGOt_VcmpK-98" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="176" width="67" height="48" as="geometry" />
+          <mxGeometry x="1052" y="176" width="67" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
