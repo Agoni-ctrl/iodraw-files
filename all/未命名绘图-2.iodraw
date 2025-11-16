@@ -1703,21 +1703,21 @@
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2245" y="65" width="96" height="30" as="geometry" />
+          <mxGeometry x="2254" y="66" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2242" y="106" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2087" y="282" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2245" y="309" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2405" y="285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-33" value="Dinov2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-33" value="Dinov2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2565" y="309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-29" target="ZTIpC-SCZ-LwR9Vcp66S-28">
@@ -1780,7 +1780,7 @@
             <mxPoint x="2047" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-29" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-29" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1926" y="318" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
