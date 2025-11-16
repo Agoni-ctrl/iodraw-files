@@ -1185,7 +1185,7 @@
           <mxGeometry x="667.5" y="697" width="173" height="126" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-59" value="Enhanced&lt;div&gt;Cross-Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="694" y="772" width="120" height="35" as="geometry" />
+          <mxGeometry x="694" y="763" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1217,8 +1217,8 @@
             <mxPoint x="879" y="699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-66" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="824" y="709" width="60" height="30" as="geometry" />
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-66" value="CAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="721" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
