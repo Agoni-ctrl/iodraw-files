@@ -2127,10 +2127,13 @@
           <mxGeometry x="589" y="477" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="598" y="685" width="120" height="60" as="geometry" />
+          <mxGeometry x="589" y="566" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="568" y="302" width="141" height="43" as="geometry" />
+          <mxGeometry x="511" y="335" width="141" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="826" y="376" width="410" height="282" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
