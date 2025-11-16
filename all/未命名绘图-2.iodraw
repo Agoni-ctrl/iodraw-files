@@ -2327,13 +2327,13 @@
           <mxGeometry x="1142" y="1328" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-71" value="Nginx 负载均衡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="883" y="1478" width="165" height="57" as="geometry" />
+          <mxGeometry x="1142" y="1449" width="165" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-72" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1298" y="1392" width="165" height="57" as="geometry" />
+          <mxGeometry x="1429" y="1388" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1263" y="1222" width="141" height="43" as="geometry" />
+          <mxGeometry x="1183" y="1191" width="141" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
