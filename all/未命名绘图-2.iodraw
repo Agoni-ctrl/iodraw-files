@@ -2177,12 +2177,12 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-36" value="增强交叉注意力ECA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="958" y="878" width="181" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="475" y="545" as="sourcePoint" />
-            <mxPoint x="585" y="597" as="targetPoint" />
+            <mxPoint x="574" y="936.5" as="sourcePoint" />
+            <mxPoint x="684" y="988.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="468" y="596" />
+              <mxPoint x="567" y="987.5" />
             </Array>
           </mxGeometry>
         </mxCell>
