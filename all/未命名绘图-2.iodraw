@@ -888,7 +888,7 @@
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-82" y="141" width="622" height="273" as="geometry" />
         </mxCell>
-        <mxCell id="a9pzLRzeGSHKNv2JGzhl-24" value="CNN Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a9pzLRzeGSHKNv2JGzhl-24" value="CNN Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="329" y="527" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9pzLRzeGSHKNv2JGzhl-24">
@@ -907,7 +907,7 @@
           <mxGeometry x="485" y="439" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9pzLRzeGSHKNv2JGzhl-30" value="FAA Dual Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562" y="638" width="60" height="30" as="geometry" />
+          <mxGeometry x="567" y="628" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
