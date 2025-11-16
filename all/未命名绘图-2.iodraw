@@ -2318,7 +2318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-68" value="Redis 缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="927" y="1268" width="165" height="57" as="geometry" />
+          <mxGeometry x="930" y="1287" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-69" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="930" y="1366" width="165" height="57" as="geometry" />
@@ -2345,7 +2345,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.368;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-70">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.368;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-68" target="xm8dC_YfxIJGjI6DpfBb-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1095" y="1297" as="sourcePoint" />
             <mxPoint x="1208" y="1289" as="targetPoint" />
