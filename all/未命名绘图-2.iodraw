@@ -2278,12 +2278,21 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-61" value="数据处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="368" y="1211" width="141" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402" y="1426" as="sourcePoint" />
             <mxPoint x="512" y="1478" as="targetPoint" />
             <Array as="points">
               <mxPoint x="395" y="1477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-63" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="1211" as="sourcePoint" />
+            <mxPoint x="552" y="1295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="392" y="1262" />
             </Array>
           </mxGeometry>
         </mxCell>
