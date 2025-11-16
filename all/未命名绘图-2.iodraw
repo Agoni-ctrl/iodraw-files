@@ -989,14 +989,11 @@
         <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1088" y="311" width="55" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-1" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="512" y="538" as="sourcePoint" />
-            <mxPoint x="672" y="538" as="targetPoint" />
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567" y="563" as="sourcePoint" />
+            <mxPoint x="617" y="513" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-2" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HTzmdh4SkAhHCpsI0pDs-1">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
