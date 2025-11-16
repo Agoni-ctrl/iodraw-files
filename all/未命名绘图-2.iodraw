@@ -1922,10 +1922,10 @@
           <mxGeometry x="342" y="274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-4" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="554" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="649" y="274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-5" value="Centering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="478" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="646" y="336" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-6" value="Student&lt;div&gt;gθs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="380" width="120" height="60" as="geometry" />
