@@ -1679,7 +1679,7 @@
           <mxGeometry x="1304" y="206" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-16" value="遮挡感知注意力&lt;div style=&quot;font-size: 18px;&quot;&gt;（OAA）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1304" y="262" width="204" height="51" as="geometry" />
+          <mxGeometry x="1305" y="261" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div style=&quot;font-size: 18px;&quot;&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1304" y="320" width="205" height="53" as="geometry" />
@@ -1697,7 +1697,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-22" value="“深度伪造检测核心模型（OcclusionShield)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1574" y="264" width="127" height="60" as="geometry" />
+          <mxGeometry x="1574" y="228" width="211" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
