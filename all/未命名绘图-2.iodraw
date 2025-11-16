@@ -1194,7 +1194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-61" value="SE Block&lt;div&gt;Channel attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="940" y="774" width="101" height="69" as="geometry" />
+          <mxGeometry x="947" y="758" width="101" height="69" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-62" value="Residual&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="1064" y="763" width="71" height="60" as="geometry" />
@@ -1222,6 +1222,12 @@
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-67" value="Refinement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1048" y="697" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829" y="749" as="sourcePoint" />
+            <mxPoint x="879" y="699" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
