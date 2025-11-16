@@ -1901,8 +1901,8 @@
             <mxPoint x="476" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-24" value="OcclusionSheld模型训练与迭代" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="388" width="162" height="80" as="geometry" />
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-24" value="OcclusionSheld模型训练与迭代" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="302" y="388" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
