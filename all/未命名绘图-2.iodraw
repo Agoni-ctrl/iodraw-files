@@ -2082,7 +2082,7 @@
           <mxGeometry x="839" y="483" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-12" value="WebSocket 实时通信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="403" width="176" height="60" as="geometry" />
+          <mxGeometry x="1028" y="372" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1048" y="483" width="120" height="60" as="geometry" />
