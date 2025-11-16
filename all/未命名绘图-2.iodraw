@@ -1405,10 +1405,10 @@
           <mxGeometry x="2242" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-30" value="VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="2038" y="307.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2087" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-31" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="2153" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="2242" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-32" value="AutoEncoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="693" y="910" width="120" height="60" as="geometry" />
@@ -1477,7 +1477,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-29" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="1891" y="305.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1925" y="296" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
