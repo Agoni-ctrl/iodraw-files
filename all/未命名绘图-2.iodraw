@@ -1032,14 +1032,14 @@
           <mxGeometry x="293" y="495.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-16" value="P2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="477" width="60" height="30" as="geometry" />
+          <mxGeometry x="293" y="515.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-17" value="DINOv2 VIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="518" width="73" height="42" as="geometry" />
+          <mxGeometry x="391" y="519" width="73" height="42" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="318" y="537" as="sourcePoint" />
+            <mxPoint x="315" y="539" as="sourcePoint" />
             <mxPoint x="390" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
