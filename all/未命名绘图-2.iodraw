@@ -1702,8 +1702,8 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2245" y="62" width="109" height="30" as="geometry" />
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2225.5" y="59.5" width="153" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2242" y="106" width="120" height="60" as="geometry" />
