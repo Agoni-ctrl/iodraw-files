@@ -1172,8 +1172,8 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-53" value="Occlusion predictor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="986" y="538" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1047" y="529" width="77" height="28" as="geometry" />
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-54" value="weight Adjustment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="525.5" width="49" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
