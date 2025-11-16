@@ -1315,8 +1315,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OGeujnyxi8GGOt_VcmpK-131" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="309" y="349" width="60" height="30" as="geometry" />
+        <mxCell id="OGeujnyxi8GGOt_VcmpK-131" value="Channel Attn Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="349" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
