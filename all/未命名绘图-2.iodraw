@@ -1366,7 +1366,7 @@
           <mxGeometry x="539" y="254" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-10" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="394" width="511" height="396" as="geometry" />
+          <mxGeometry x="367" y="249" width="511" height="396" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-12" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="569" y="403" width="67" height="30" as="geometry" />
@@ -1385,12 +1385,6 @@
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="396" y="587" width="120" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="563" y="538" as="sourcePoint" />
-            <mxPoint x="613" y="488" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
