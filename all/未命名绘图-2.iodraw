@@ -1839,13 +1839,19 @@
           <mxGeometry x="472" y="152" width="195" height="198" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="509.5" y="160" width="120" height="41" as="geometry" />
+          <mxGeometry x="509.5" y="168" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-8" value="特征级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="508" y="237" width="120" height="41" as="geometry" />
+          <mxGeometry x="509.5" y="229.5" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-9" value="频域增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="291" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="x6I3MB1qq7ozy5H-4s0R-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="395" as="sourcePoint" />
+            <mxPoint x="561" y="345" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
