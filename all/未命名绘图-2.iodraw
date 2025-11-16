@@ -2087,8 +2087,8 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1011" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="实时监测面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="975" y="552" width="120" height="60" as="geometry" />
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="身份认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
