@@ -1182,10 +1182,10 @@
           <mxGeometry x="856.5" y="465.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="697" width="173" height="126" as="geometry" />
+          <mxGeometry x="627" y="693" width="173" height="126" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-59" value="Enhanced&lt;div&gt;Cross-Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="694" y="763" width="120" height="35" as="geometry" />
+          <mxGeometry x="659" y="763" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1200,7 +1200,7 @@
           <mxGeometry x="1064" y="763" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-63" value="MLP" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="1178" y="733" width="60" height="100" as="geometry" />
+          <mxGeometry x="1182" y="737" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0;exitDx=25;exitDy=10;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-21" target="HTzmdh4SkAhHCpsI0pDs-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1218,7 +1218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-66" value="CAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="721" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="683.5" y="707" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-67" value="Refinement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1048" y="697" width="76" height="30" as="geometry" />
