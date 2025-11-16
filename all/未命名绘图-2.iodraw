@@ -2126,8 +2126,11 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="602" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="598" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="979" y="370" width="100" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
