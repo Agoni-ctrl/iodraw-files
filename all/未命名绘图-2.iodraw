@@ -917,7 +917,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-1" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-1" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="138" y="311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-1">
@@ -926,7 +926,7 @@
             <mxPoint x="310" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-3" value="Occlusion&lt;div&gt;Augmentation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-3" value="Occlusion&lt;div&gt;Augmentation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="313" y="286" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-3">
@@ -941,10 +941,10 @@
             <mxPoint x="491" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-6" value="ViT Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-6" value="ViT Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="499" y="272" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-7" value="CNN Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-7" value="CNN Branch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="499" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-6">
@@ -959,7 +959,7 @@
             <mxPoint x="689" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-10" value="OAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-10" value="OAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="691" y="265.5" width="120" height="151" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-10">
@@ -968,7 +968,7 @@
             <mxPoint x="865" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-12" value="CAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-12" value="CAF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="864" y="311" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-12">
@@ -977,7 +977,7 @@
             <mxPoint x="963" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-14" value="Refinement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-14" value="Refinement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="967" y="311" width="78" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-14">
@@ -986,7 +986,7 @@
             <mxPoint x="1089" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
           <mxGeometry x="1088" y="311" width="55" height="60" as="geometry" />
         </mxCell>
       </root>
