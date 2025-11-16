@@ -2085,7 +2085,7 @@
           <mxGeometry x="1035" y="398" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="483" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="483" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="身份认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1050" y="566" width="120" height="60" as="geometry" />
@@ -2111,7 +2111,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="961" y="512.5" as="sourcePoint" />
-            <mxPoint x="1050" y="510" as="targetPoint" />
+            <mxPoint x="1050" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
