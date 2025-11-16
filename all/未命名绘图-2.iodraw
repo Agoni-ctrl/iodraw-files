@@ -1645,7 +1645,7 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="159" width="576" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-2" value="数据与预处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-2" value="数据与预处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="547" y="194" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-3" target="ZTIpC-SCZ-LwR9Vcp66S-4">
@@ -1663,10 +1663,10 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-6" value="&quot;数据增强与遮挡合成管道“" style="whiteSpace=wrap;html=1;fillColor=#CCFFFF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="231" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-8" value="OAM-Bench&lt;div&gt;&amp;nbsp; &amp;nbsp;(基准数据集）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-8" value="OAM-Bench&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp;(基准数据集）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#CCE5FF;rounded=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1022" y="187" width="120" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-12" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-12" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1412" y="102" width="67" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
@@ -1702,7 +1702,7 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="1852" y="59" width="887" height="387" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-27" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2254" y="66" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-28" value="Pytorch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;fontSize=16;" vertex="1" parent="1">
