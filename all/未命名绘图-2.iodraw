@@ -2137,11 +2137,6 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="399" y="475" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="634.5714285714284" y="633" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="577" y="403" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2178,22 +2173,22 @@
             <mxPoint x="575" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-31" value="视频帧提取引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-31" value="视频帧提取引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="503" y="876.5" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-32" value="频率敏感注意力FSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-32" value="频率敏感注意力FSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="725" y="740" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-33" value="遮挡感知注意&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%A2%91%E7%8E%87%E6%95%8F%E6%84%9F%E6%B3%A8%E6%84%8F%E5%8A%9BFSA%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3BfontSize%3D18%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22651%22%20y%3D%22732%22%20width%3D%22165%22%20height%3D%2257%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-33" value="遮挡感知注意&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%A2%91%E7%8E%87%E6%95%8F%E6%84%9F%E6%B3%A8%E6%84%8F%E5%8A%9BFSA%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3BfontSize%3D18%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22651%22%20y%3D%22732%22%20width%3D%22165%22%20height%3D%2257%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="725" y="821" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-34" value="Dinov2 语义分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-34" value="Dinov2 语义分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="725" y="930" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-35" value="CNN 特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-35" value="CNN 特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="725" y="1012" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-36" value="增强交叉注意力ECA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-36" value="增强交叉注意力ECA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="958" y="878" width="181" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-40" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-31">
