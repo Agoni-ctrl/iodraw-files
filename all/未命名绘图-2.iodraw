@@ -1196,7 +1196,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-61" value="SE Block&lt;div&gt;Channel attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="952" y="733" width="101" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-62" value="Residual&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-62" value="Residual&lt;div&gt;Attention&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="1074" y="854" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-63" value="MLP" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#4D4D4D;" vertex="1" parent="1">
@@ -1219,6 +1219,9 @@
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-66" value="CAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-67" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="697" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
