@@ -1178,6 +1178,9 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-56" value="Concatenate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1076" y="582" width="66" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-57" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="794" y="508" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
