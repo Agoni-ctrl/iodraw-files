@@ -1461,10 +1461,10 @@
             <mxPoint x="1021" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="905" y="614" as="sourcePoint" />
-            <mxPoint x="955" y="564" as="targetPoint" />
+            <mxPoint x="1243" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
