@@ -2332,7 +2332,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-72" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1298" y="1392" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="数据处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1263" y="1222" width="141" height="43" as="geometry" />
         </mxCell>
       </root>
