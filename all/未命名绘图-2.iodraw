@@ -1371,19 +1371,19 @@
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-12" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565.5" y="354" width="67" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="378" y="435" width="148" height="213" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-14" value="注意力机制模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="412" y="435" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-15" value="频率敏感注意力&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（FSA)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-15" value="频率敏感注意力&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（FSA)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="396" y="473" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-16" value="遮挡感知注意力&lt;div&gt;（OAA）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-16" value="遮挡感知注意力&lt;div&gt;（OAA）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="396" y="531" width="120" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="396" y="587" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTIpC-SCZ-LwR9Vcp66S-15" target="ZTIpC-SCZ-LwR9Vcp66S-22">
