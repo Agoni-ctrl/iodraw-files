@@ -2264,13 +2264,13 @@
           <mxGeometry x="227" y="1260" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-57" value="数据预处理管道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1369" width="165" height="57" as="geometry" />
+          <mxGeometry x="323" y="1369" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-58" value="OAM-Bench 数据集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1369" width="165" height="57" as="geometry" />
+          <mxGeometry x="552" y="1369" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-59" value="LMDB 高速存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1482" width="165" height="57" as="geometry" />
+          <mxGeometry x="554.5" y="1481" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-60" value="数据增强引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="552" y="1264" width="165" height="57" as="geometry" />
