@@ -923,7 +923,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="590.5" y="465.5" width="592" height="212" as="geometry" />
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-1" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-1" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="138" y="311" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-1">
@@ -932,7 +932,7 @@
             <mxPoint x="310" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-3" value="Occlusion&lt;div&gt;Augmentation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-3" value="Occlusion&lt;div&gt;Augmentation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="313" y="286" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mk28AzorWt4VzZ8kX_iX-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mk28AzorWt4VzZ8kX_iX-3">
@@ -992,7 +992,7 @@
             <mxPoint x="1089" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mk28AzorWt4VzZ8kX_iX-16" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1088" y="311" width="55" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
