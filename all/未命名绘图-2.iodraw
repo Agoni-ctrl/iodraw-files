@@ -1240,7 +1240,7 @@
         <mxCell id="OGeujnyxi8GGOt_VcmpK-105" value="Spatial Attn Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346" y="171" width="60" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="OGeujnyxi8GGOt_VcmpK-106" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OGeujnyxi8GGOt_VcmpK-106" value="Conv+Sigmoid" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="549" y="182" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
