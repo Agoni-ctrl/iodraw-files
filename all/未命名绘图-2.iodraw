@@ -2121,7 +2121,7 @@
           <mxGeometry x="413" y="578" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="592" y="502" width="120" height="60" as="geometry" />
+          <mxGeometry x="602" y="522" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="602" y="600" width="120" height="60" as="geometry" />
@@ -2130,7 +2130,7 @@
           <mxGeometry x="598" y="685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="598" y="376" width="100" height="43" as="geometry" />
+          <mxGeometry x="568" y="302" width="141" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
