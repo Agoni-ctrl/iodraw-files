@@ -1912,10 +1912,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HstdYDX43-3D7oGHzne2-1" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-1" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="366" y="131" width="76" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="HstdYDX43-3D7oGHzne2-2" value="P2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-2" value="P2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="668" y="131" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-3" value="Softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -1933,13 +1933,13 @@
         <mxCell id="HstdYDX43-3D7oGHzne2-7" value="&lt;div&gt;Treacher&lt;/div&gt;&lt;div&gt;gθt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="646" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HstdYDX43-3D7oGHzne2-8" value="x1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-8" value="x1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="366" y="481" width="76" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="HstdYDX43-3D7oGHzne2-9" value="x2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-9" value="x2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="668" y="484" width="76" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="HstdYDX43-3D7oGHzne2-10" value="x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-10" value="x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="522" y="577" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="HstdYDX43-3D7oGHzne2-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HstdYDX43-3D7oGHzne2-10" target="HstdYDX43-3D7oGHzne2-8">
