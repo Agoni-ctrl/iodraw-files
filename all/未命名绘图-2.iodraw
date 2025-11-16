@@ -1077,7 +1077,7 @@
           <mxGeometry x="182" y="802" width="36" height="31" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-29" value="Low-Freq(Global)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="228" y="767" width="60" height="30" as="geometry" />
+          <mxGeometry x="218" y="768" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
