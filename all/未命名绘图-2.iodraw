@@ -2118,13 +2118,13 @@
           <mxGeometry x="969" y="360" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="413" y="578" width="136" height="60" as="geometry" />
+          <mxGeometry x="411" y="477" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="602" y="522" width="120" height="60" as="geometry" />
+          <mxGeometry x="589" y="383" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="602" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="589" y="477" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="598" y="685" width="120" height="60" as="geometry" />
