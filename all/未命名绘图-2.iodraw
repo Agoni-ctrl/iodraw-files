@@ -2034,10 +2034,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="989" y="373" width="307" height="259" as="geometry" />
+          <mxGeometry x="957" y="457" width="315" height="259" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="935" y="54" width="100" height="43" as="geometry" />
+          <mxGeometry x="939" y="47" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-3" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="833" y="184" width="120" height="60" as="geometry" />
