@@ -2008,7 +2008,7 @@
         <mxCell id="HstdYDX43-3D7oGHzne2-22" value="Loss:&lt;div&gt;-p2logp1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="517" y="139" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HstdYDX43-3D7oGHzne2-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HstdYDX43-3D7oGHzne2-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="511" y="395" as="sourcePoint" />
             <mxPoint x="561" y="345" as="targetPoint" />
