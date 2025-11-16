@@ -1381,10 +1381,10 @@
           <mxGeometry x="396" y="473" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-16" value="遮挡感知注意力&lt;div&gt;（OAA）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="392" y="532" width="120" height="41" as="geometry" />
+          <mxGeometry x="396" y="531" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ZTIpC-SCZ-LwR9Vcp66S-17" value="增强交叉注意力&lt;div&gt;（ECA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546" y="505" width="120" height="41" as="geometry" />
+          <mxGeometry x="396" y="587" width="120" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
