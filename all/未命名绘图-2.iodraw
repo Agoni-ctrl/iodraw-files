@@ -1173,7 +1173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="976" y="510" width="189" height="134" as="geometry" />
+          <mxGeometry x="976" y="510" width="208" height="134" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-53" value="Occlusion predictor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="986" y="538" width="68" height="60" as="geometry" />
@@ -1226,7 +1226,7 @@
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-66" value="CAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="683.5" y="707" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-67" value="Refinement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-67" value="Refinement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="990.75" y="693" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.576;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-62" target="HTzmdh4SkAhHCpsI0pDs-63">
