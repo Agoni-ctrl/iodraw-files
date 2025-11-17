@@ -20,10 +20,10 @@
           <mxGeometry x="761" y="624" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-6" value="学工办" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="754" width="120" height="60" as="geometry" />
+          <mxGeometry x="851" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-7" value="教务管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="198" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="生成成绩分析表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="499" width="120" height="60" as="geometry" />
