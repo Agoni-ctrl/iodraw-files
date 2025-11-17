@@ -133,10 +133,10 @@
           <mxGeometry x="259" y="352" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-4" value="教务管理人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="682" y="252" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="276" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-5" value="学工办" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="552" y="538" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="453" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
