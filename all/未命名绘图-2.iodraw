@@ -2099,10 +2099,10 @@
           <mxGeometry x="1035" y="398" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="483" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="483" width="179" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="身份认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="566" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="566" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2129,7 +2129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-21" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="969" y="360" width="186" height="43" as="geometry" />
+          <mxGeometry x="944.5" y="346" width="186" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="399" y="475" width="136" height="60" as="geometry" />
