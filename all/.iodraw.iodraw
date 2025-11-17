@@ -186,8 +186,8 @@
             <mxPoint x="563" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J8ut2RsHbEEYW6r_PNJE-17" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="395" y="193" width="60" height="30" as="geometry" />
+        <mxCell id="J8ut2RsHbEEYW6r_PNJE-17" value="输入成绩" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="198" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
