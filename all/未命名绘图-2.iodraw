@@ -2180,7 +2180,7 @@
           <mxGeometry x="719.5" y="826" width="192" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-34" value="Dinov2 语义分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="738" y="926" width="165" height="57" as="geometry" />
+          <mxGeometry x="731" y="929" width="165" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-35" value="CNN 特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="741" y="1009" width="165" height="57" as="geometry" />
