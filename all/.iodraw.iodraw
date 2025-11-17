@@ -163,7 +163,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-11" value="成绩分析表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="609.24" y="304.76" width="72" height="30" as="geometry" />
+          <mxGeometry x="611" y="315" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J8ut2RsHbEEYW6r_PNJE-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="J8ut2RsHbEEYW6r_PNJE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="495" as="sourcePoint" />
+            <mxPoint x="561" y="445" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
