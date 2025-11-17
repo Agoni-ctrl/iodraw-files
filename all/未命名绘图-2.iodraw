@@ -2177,7 +2177,7 @@
           <mxGeometry x="725" y="740" width="224" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-33" value="遮挡感知注意力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="729" y="835" width="192" height="57" as="geometry" />
+          <mxGeometry x="719.5" y="826" width="192" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-34" value="Dinov2 语义分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="725" y="930" width="165" height="57" as="geometry" />
