@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AZ0QNbubkLmQrcvMDasq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="175" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-1" value="登记成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="304" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +33,9 @@
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-11" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="186" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
