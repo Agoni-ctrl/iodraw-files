@@ -171,8 +171,8 @@
             <mxPoint x="561" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J8ut2RsHbEEYW6r_PNJE-13" value="成绩分析表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="602" y="437" width="72" height="30" as="geometry" />
+        <mxCell id="J8ut2RsHbEEYW6r_PNJE-13" value="不及格学生名录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="596" y="422.5" width="113" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
