@@ -1827,7 +1827,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-3" value="程序化遮挡合成引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="296" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="296" y="220" width="163" height="62" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1854,7 +1854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-11" value="OAM-Bench" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE6CC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="724" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="738" y="84" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1863,7 +1863,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-13" value="LMDB高速存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="860" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="919" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-14" value="数据增强" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="536" y="134" width="60" height="30" as="geometry" />
