@@ -1877,16 +1877,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="785" y="366.5" width="299" height="123" as="geometry" />
+          <mxGeometry x="663" y="496" width="299" height="123" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-17" value="自定义数据集类在线增强" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="798" y="394" width="81" height="60" as="geometry" />
+          <mxGeometry x="738" y="576" width="81" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-18" value="多进程并行预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="888.5" y="394" width="63" height="60" as="geometry" />
+          <mxGeometry x="870" y="581" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-19" value="环形数据缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="974" y="394" width="95" height="60" as="geometry" />
+          <mxGeometry x="905" y="684" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-16" target="x6I3MB1qq7ozy5H-4s0R-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1895,7 +1895,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-21" value="GPU持续稳定数据流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="543" y="398" width="120" height="60" as="geometry" />
+          <mxGeometry x="507" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
