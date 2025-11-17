@@ -1836,7 +1836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="472" y="129" width="195" height="221" as="geometry" />
+          <mxGeometry x="472" y="129" width="265" height="221" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="509.5" y="168" width="120" height="41" as="geometry" />
