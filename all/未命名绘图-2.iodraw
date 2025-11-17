@@ -2092,16 +2092,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-11" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-11" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=26;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="836" y="483" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-12" value="WebSocket 实时通信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-12" value="WebSocket 实时通信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=26;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="1035" y="398" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=26;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="1050" y="483" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="身份认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-14" value="身份认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=26;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="1050" y="566" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-14">
@@ -2131,16 +2131,16 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-21" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="969" y="360" width="186" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=24;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="399" y="475" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=24;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-23" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="577" y="403" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=24;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-24" value="参数调优" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="577" y="475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=24;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="577" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
