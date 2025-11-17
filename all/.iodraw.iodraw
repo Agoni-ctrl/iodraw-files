@@ -10,9 +10,6 @@
         <mxCell id="z-dhgSI31HdgWIIRLDVA-2" value="学生成绩数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12.5;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="563.5" y="403" width="109" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="z-dhgSI31HdgWIIRLDVA-3" value="成绩统计分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="527" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-4" value="筛选不及格成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="761" y="499" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,7 +29,7 @@
           <mxGeometry x="382" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="184" y="541" width="120" height="60" as="geometry" />
+          <mxGeometry x="382" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-11" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="184" width="120" height="60" as="geometry" />
@@ -71,6 +68,12 @@
             <Array as="points">
               <mxPoint x="746" y="409" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="595" as="sourcePoint" />
+            <mxPoint x="561" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
