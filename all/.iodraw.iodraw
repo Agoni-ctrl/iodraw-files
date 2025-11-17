@@ -178,7 +178,7 @@
           <mxGeometry x="608" y="345" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-15" value="学生成绩数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="516" y="502" width="82" height="80" as="geometry" />
+          <mxGeometry x="498" y="173" width="101" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
