@@ -19,8 +19,11 @@
         <mxCell id="z-dhgSI31HdgWIIRLDVA-4" value="筛选不及格成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="837" y="474" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-dhgSI31HdgWIIRLDVA-5" value="筛选不及格成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-5" value="生成不及格名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="722" y="577" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-6" value="生成不及格名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="703" y="669" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
