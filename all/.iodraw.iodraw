@@ -11,10 +11,10 @@
           <mxGeometry x="563.5" y="403" width="109" height="63" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-3" value="成绩统计分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="527" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-4" value="筛选不及格成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="854" y="472" width="120" height="60" as="geometry" />
+          <mxGeometry x="761" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-5" value="生成不及格名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="722" y="577" width="120" height="60" as="geometry" />
@@ -62,6 +62,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="511" y="595" as="sourcePoint" />
             <mxPoint x="561" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="595" as="sourcePoint" />
+            <mxPoint x="561" y="545" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="595" />
+              <mxPoint x="511" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
