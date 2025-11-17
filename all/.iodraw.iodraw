@@ -8,7 +8,7 @@
           <mxGeometry x="558" y="304" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-2" value="学生成绩数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12.5;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="618.5" y="407" width="109" height="63" as="geometry" />
+          <mxGeometry x="563.5" y="400" width="109" height="63" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-3" value="成绩统计分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="510" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="703" y="669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-7" value="教务管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="383" y="276" width="120" height="60" as="geometry" />
+          <mxGeometry x="285" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="生成成绩分析表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="599" y="504" width="120" height="60" as="geometry" />
