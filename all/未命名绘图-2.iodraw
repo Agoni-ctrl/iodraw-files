@@ -2098,7 +2098,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-11" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="836" y="483" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-12" value="WebSocket 实时通信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-12" value="WebSocket 实时通信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1035" y="398" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-13" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
