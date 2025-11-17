@@ -14,7 +14,7 @@
           <mxGeometry x="730" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-4" value="筛选不及格成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="823" y="412" width="120" height="60" as="geometry" />
+          <mxGeometry x="854" y="472" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-5" value="生成不及格名单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="722" y="577" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="558" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-9" value="生成成绩单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="383" y="495" width="120" height="60" as="geometry" />
+          <mxGeometry x="382" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="184" y="541" width="120" height="60" as="geometry" />
