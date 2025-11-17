@@ -2318,6 +2318,9 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-68" value="Redis 缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="1287" width="165" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="wzNf6lW6BxkXogQHP9NA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-69" target="wzNf6lW6BxkXogQHP9NA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-69" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="930" y="1366" width="165" height="57" as="geometry" />
         </mxCell>
@@ -2411,6 +2414,9 @@
             <mxPoint x="1119" y="770" as="sourcePoint" />
             <mxPoint x="1041" y="361" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wzNf6lW6BxkXogQHP9NA-1" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1229" width="165" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
