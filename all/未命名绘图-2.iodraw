@@ -1877,16 +1877,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="473" width="299" height="123" as="geometry" />
+          <mxGeometry x="1022" y="473" width="376" height="208" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-17" value="自定义数据集类在线增强" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="508" width="195" height="60" as="geometry" />
+          <mxGeometry x="869" y="674" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-18" value="多进程并行预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="870" y="581" width="171" height="60" as="geometry" />
+          <mxGeometry x="1150" y="754" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-19" value="环形数据缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="905" y="684" width="95" height="60" as="geometry" />
+          <mxGeometry x="1337" y="641" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-16" target="x6I3MB1qq7ozy5H-4s0R-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
