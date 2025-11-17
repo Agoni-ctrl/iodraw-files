@@ -1011,9 +1011,9 @@
           <mxGeometry x="140" y="663" width="440" height="178" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-7" value="CNN Branch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="667" width="78.5" height="30" as="geometry" />
+          <mxGeometry x="303.25" y="663" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-8" value="&amp;nbsp;Patch Embeding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-8" value="&amp;nbsp;Patch Embeding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="165.5" y="518" width="72.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTzmdh4SkAhHCpsI0pDs-8">
