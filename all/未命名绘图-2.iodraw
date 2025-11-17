@@ -1903,11 +1903,11 @@
             <mxPoint x="583" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x6I3MB1qq7ozy5H-4s0R-24" value="OcclusionSheld模型训练与迭代" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="315" y="549.5" width="267" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2aMNyHWWRKFFWWo2aRZ_-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;OcclusionSheld模型训练与迭代&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.57142857142867" y="874.5714285714287" width="405" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2aMNyHWWRKFFWWo2aRZ_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="549.5" width="217" height="123.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
