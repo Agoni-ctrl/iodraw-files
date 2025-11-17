@@ -1838,7 +1838,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="568" y="178.5" width="265" height="221" as="geometry" />
+          <mxGeometry x="568" y="165" width="265" height="234.5" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="607.75" y="212" width="183.5" height="41" as="geometry" />
@@ -1847,7 +1847,7 @@
           <mxGeometry x="607.75" y="268.5" width="184.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-9" value="频域增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="607.75" y="333" width="185.5" height="41" as="geometry" />
+          <mxGeometry x="607.75" y="325.5" width="185.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1868,7 +1868,7 @@
           <mxGeometry x="919" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-14" value="数据增强" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="536" y="134" width="129" height="30" as="geometry" />
+          <mxGeometry x="636" y="178.5" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
