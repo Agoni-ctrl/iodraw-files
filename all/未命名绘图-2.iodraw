@@ -2064,6 +2064,9 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-4" value="实时监测面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1046" y="72" width="169" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XUuQZxEC5LI2ceg3iMvv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-5" target="XUuQZxEC5LI2ceg3iMvv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-5" value="结果可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1046" y="155" width="169" height="60" as="geometry" />
         </mxCell>
@@ -2411,6 +2414,9 @@
             <mxPoint x="1119" y="770" as="sourcePoint" />
             <mxPoint x="1041" y="361" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XUuQZxEC5LI2ceg3iMvv-2" value="结果可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="295" width="169" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
