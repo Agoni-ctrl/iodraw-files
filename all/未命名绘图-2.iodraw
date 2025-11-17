@@ -1880,10 +1880,10 @@
           <mxGeometry x="1022" y="473" width="299" height="123" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-17" value="自定义数据集类在线增强" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="738" y="576" width="195" height="60" as="geometry" />
+          <mxGeometry x="1033" y="508" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-18" value="多进程并行预处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="870" y="581" width="63" height="60" as="geometry" />
+          <mxGeometry x="870" y="581" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-19" value="环形数据缓冲区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="905" y="684" width="95" height="60" as="geometry" />
