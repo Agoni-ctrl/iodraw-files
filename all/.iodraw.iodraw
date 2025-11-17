@@ -7,8 +7,8 @@
         <mxCell id="AZ0QNbubkLmQrcvMDasq-1" value="教师" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="203" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-dhgSI31HdgWIIRLDVA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-1" value="登记成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="613" y="307" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
