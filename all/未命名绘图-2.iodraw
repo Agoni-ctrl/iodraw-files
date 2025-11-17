@@ -1900,11 +1900,11 @@
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x6I3MB1qq7ozy5H-4s0R-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="542" y="570" as="sourcePoint" />
-            <mxPoint x="476" y="428" as="targetPoint" />
+            <mxPoint x="583" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-24" value="OcclusionSheld模型训练与迭代" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="270" y="493" width="175" height="80" as="geometry" />
+          <mxGeometry x="270" y="493" width="267" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
