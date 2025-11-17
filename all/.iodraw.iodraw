@@ -23,7 +23,7 @@
           <mxGeometry x="907" y="733" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-7" value="教务管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="632" y="733" width="120" height="60" as="geometry" />
+          <mxGeometry x="686" y="729" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="生成成绩分析表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="499" width="120" height="60" as="geometry" />
@@ -70,17 +70,6 @@
             <mxPoint x="823" y="512" as="targetPoint" />
             <Array as="points">
               <mxPoint x="746" y="409" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z-dhgSI31HdgWIIRLDVA-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.442;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="z-dhgSI31HdgWIIRLDVA-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="761" y="658" as="sourcePoint" />
-            <mxPoint x="685" y="694" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="811" y="658" />
-              <mxPoint x="775" y="625" />
-              <mxPoint x="761" y="608" />
             </Array>
           </mxGeometry>
         </mxCell>
