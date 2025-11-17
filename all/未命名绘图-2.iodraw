@@ -1266,7 +1266,7 @@
             <mxPoint x="681" y="644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTzmdh4SkAhHCpsI0pDs-80" value="CLS Token" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HTzmdh4SkAhHCpsI0pDs-80" value="CLS Token" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="444" y="588.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HTzmdh4SkAhHCpsI0pDs-81" value="256" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
