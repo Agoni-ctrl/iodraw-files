@@ -28,7 +28,7 @@
         <mxCell id="z-dhgSI31HdgWIIRLDVA-7" value="教务管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="273" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="登记成绩" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="生成成绩分析表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="331" y="379" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
