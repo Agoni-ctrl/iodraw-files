@@ -195,8 +195,8 @@
             <mxPoint x="563" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J8ut2RsHbEEYW6r_PNJE-19" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="508" y="415" width="60" height="30" as="geometry" />
+        <mxCell id="J8ut2RsHbEEYW6r_PNJE-19" value="学生成绩信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="302" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
