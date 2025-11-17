@@ -2058,16 +2058,16 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="970" y="23" width="164" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-3" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=27;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-3" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-4" value="实时监测面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=27;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-4" value="实时监测面板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1046" y="72" width="169" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-5" value="结果可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=27;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-5" value="结果可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1046" y="155" width="169" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-6" value="历史记录管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontSize=27;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-6" value="历史记录管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5CCFF;fontSize=27;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1052" y="234" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-3" target="xm8dC_YfxIJGjI6DpfBb-4">
@@ -2411,6 +2411,9 @@
             <mxPoint x="1119" y="770" as="sourcePoint" />
             <mxPoint x="1041" y="361" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XUuQZxEC5LI2ceg3iMvv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.662;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-12" target="xm8dC_YfxIJGjI6DpfBb-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
