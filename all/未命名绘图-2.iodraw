@@ -2063,10 +2063,10 @@
           <mxGeometry x="1035" y="105" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-5" value="结果可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="184" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="184" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-6" value="历史记录管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=27;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="261" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="261" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
