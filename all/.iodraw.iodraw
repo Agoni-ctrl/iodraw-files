@@ -26,13 +26,13 @@
           <mxGeometry x="285" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-8" value="生成成绩分析表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="599" y="504" width="120" height="60" as="geometry" />
+          <mxGeometry x="563.5" y="498" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-9" value="生成成绩单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="383" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="561" width="120" height="60" as="geometry" />
+          <mxGeometry x="184" y="541" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-11" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="558" y="184" width="120" height="60" as="geometry" />
@@ -54,10 +54,7 @@
             <mxPoint x="465" y="453" as="sourcePoint" />
             <mxPoint x="515" y="403" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="524" y="455" />
               <mxPoint x="465" y="403" />
-              <mxPoint x="473" y="448" />
-              <mxPoint x="455" y="462" />
             </Array>
           </mxGeometry>
         </mxCell>
