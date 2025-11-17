@@ -2053,8 +2053,8 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="72" y="1191" width="690" height="373" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="966" y="46" width="100" height="43" as="geometry" />
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-2" value="前端展示层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="966" y="46" width="164" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-3" value="用户交互界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="833" y="184" width="120" height="60" as="geometry" />
@@ -2128,7 +2128,7 @@
             <mxPoint x="1050" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-21" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-21" value="API服务层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="969" y="360" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-22" value="Pytorch训练框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;strokeColor=#36393d;gradientColor=default;" vertex="1" parent="1">
@@ -2143,7 +2143,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-25" value="性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="577" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-26" value="模型训练与优化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="494" y="364" width="141" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -2263,7 +2263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-53" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-53" value="核心算法层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="734" y="683" width="141" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-56" value="多源数据采集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
@@ -2281,7 +2281,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-60" value="数据增强引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="552" y="1265" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-61" value="数据处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-61" value="数据处理层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="368" y="1211" width="141" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xm8dC_YfxIJGjI6DpfBb-59">
@@ -2329,7 +2329,7 @@
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-72" value="Kubernetes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="1429" y="1388" width="165" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="xm8dC_YfxIJGjI6DpfBb-73" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="1154" y="1200" width="141" height="43" as="geometry" />
         </mxCell>
         <mxCell id="xm8dC_YfxIJGjI6DpfBb-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xm8dC_YfxIJGjI6DpfBb-69">
