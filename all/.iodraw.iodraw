@@ -29,7 +29,7 @@
           <mxGeometry x="599" y="504" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-9" value="生成成绩单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="408.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="368" y="416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z-dhgSI31HdgWIIRLDVA-10" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="561" width="120" height="60" as="geometry" />
