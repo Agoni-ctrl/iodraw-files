@@ -1841,7 +1841,7 @@
           <mxGeometry x="568" y="178.5" width="265" height="221" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-7" value="像素级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="569" y="192" width="183.5" height="41" as="geometry" />
+          <mxGeometry x="607.75" y="212" width="183.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-8" value="特征级增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="607.75" y="268.5" width="184.5" height="41" as="geometry" />
@@ -1851,11 +1851,8 @@
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="741" y="249.5" as="sourcePoint" />
-            <mxPoint x="796" y="249.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="891" y="271" />
-            </Array>
+            <mxPoint x="904" y="283" as="sourcePoint" />
+            <mxPoint x="959" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x6I3MB1qq7ozy5H-4s0R-11" value="OAM-Bench" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE6CC;fontSize=27;" vertex="1" parent="1">
