@@ -207,22 +207,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-5" value="通话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="329" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="235" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-6" value="通信录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-7" value="短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="259" width="120" height="60" as="geometry" />
+          <mxGeometry x="627" y="467" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-8" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="713" y="294" width="120" height="60" as="geometry" />
+          <mxGeometry x="742" y="396" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-9" value="网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="532" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="392" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-10" value="App管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="291" width="120" height="60" as="geometry" />
+          <mxGeometry x="541" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-11" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="274" y="562" width="120" height="60" as="geometry" />
