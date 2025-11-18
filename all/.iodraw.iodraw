@@ -210,7 +210,7 @@
           <mxGeometry x="235" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-6" value="通信录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-7" value="短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="627" y="467" width="120" height="60" as="geometry" />
