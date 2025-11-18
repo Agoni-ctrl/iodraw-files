@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5J_6IgOmjbj-NzxAd9fE" name="第 3 页">
-    <mxGraphModel dx="1050" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000000" pageHeight="1000000" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           <mxGeometry x="994" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-11" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="274" y="562" width="120" height="60" as="geometry" />
+          <mxGeometry x="274" y="562" width="25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-12" value="接收短信&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="511" width="120" height="60" as="geometry" />
