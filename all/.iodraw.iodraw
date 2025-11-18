@@ -330,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-46" value="添加联系人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="409" y="515" width="25" height="186" as="geometry" />
+          <mxGeometry x="374" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-47" value="编辑联系人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="361" y="554" width="25" height="186" as="geometry" />
