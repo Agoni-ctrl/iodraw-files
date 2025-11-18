@@ -209,9 +209,6 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-5" value="通话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-6" value="通信录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="317" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-9" value="网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="320" width="59" height="60" as="geometry" />
         </mxCell>
@@ -227,8 +224,8 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-17" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="765" y="413" width="59" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-18" value="网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="345" width="59" height="60" as="geometry" />
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-18" value="短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="654" y="461" width="59" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
