@@ -219,10 +219,10 @@
           <mxGeometry x="704" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-9" value="网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="856" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="856" y="317" width="59" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-10" value="App管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="1082" y="315" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-11" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="505" width="25" height="186" as="geometry" />
