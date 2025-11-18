@@ -343,9 +343,12 @@
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="687.97" y="456" as="sourcePoint" />
-            <mxPoint x="687.97" y="380" as="targetPoint" />
+            <mxPoint x="825.97" y="445" as="sourcePoint" />
+            <mxPoint x="825.97" y="369" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-51" value="发送文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="807" y="437" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
