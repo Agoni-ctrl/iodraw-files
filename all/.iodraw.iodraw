@@ -288,7 +288,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-32" value="查看文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="638" y="443" width="25" height="186" as="geometry" />
+          <mxGeometry x="636" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-33" value="复制文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="669" y="466" width="25" height="186" as="geometry" />
@@ -300,7 +300,7 @@
           <mxGeometry x="838" y="475" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-36" value="保存文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="638" y="553" width="25" height="186" as="geometry" />
+          <mxGeometry x="949" y="513" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
