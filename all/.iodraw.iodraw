@@ -227,6 +227,9 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-19" value="通信录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="603" y="359" width="59" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-20" value="通话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237" y="309" width="59" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
