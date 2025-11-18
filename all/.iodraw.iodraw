@@ -351,13 +351,13 @@
           <mxGeometry x="800" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-54" value="移动数据连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="756" y="571" width="25" height="186" as="geometry" />
+          <mxGeometry x="850" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-55" value="蓝牙连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="662" y="582" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-56" value="热点共享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="866" y="595" width="25" height="186" as="geometry" />
+          <mxGeometry x="825" y="446" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
