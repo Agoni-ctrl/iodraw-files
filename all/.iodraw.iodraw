@@ -236,7 +236,7 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-14" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="684" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-15" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="392" y="399" width="398" height="60" as="geometry" />
         </mxCell>
       </root>
