@@ -361,9 +361,12 @@
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="835.97" y="455" as="sourcePoint" />
-            <mxPoint x="835.97" y="379" as="targetPoint" />
+            <mxPoint x="950.97" y="446" as="sourcePoint" />
+            <mxPoint x="950.97" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-58" value="热点共享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="446" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
