@@ -290,6 +290,12 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-32" value="查看文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="638" y="443" width="25" height="186" as="geometry" />
         </mxCell>
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-33" value="复制文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="669" y="466" width="25" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-34" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="476" width="25" height="186" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
