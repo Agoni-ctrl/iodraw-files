@@ -299,7 +299,7 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-35" value="发送文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="838" y="475" width="25" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-36" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-36" value="保存文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="638" y="553" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
