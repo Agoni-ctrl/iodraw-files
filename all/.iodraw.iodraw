@@ -222,16 +222,10 @@
           <mxGeometry x="856" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-10" value="App管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="994" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="1043" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-11" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="505" width="25" height="186" as="geometry" />
-        </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-13" value="发送短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="536" y="607" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-14" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="684" y="485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-15" value="智能手机操作系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="201" width="985" height="60" as="geometry" />
