@@ -225,7 +225,7 @@
           <mxGeometry x="575" y="291" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-11" value="编辑短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="392" y="457" width="120" height="60" as="geometry" />
+          <mxGeometry x="274" y="562" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-12" value="接收短信&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="511" width="120" height="60" as="geometry" />
@@ -233,8 +233,8 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-13" value="发送短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="538" y="598" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-14" value="通话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="566" y="531" width="120" height="60" as="geometry" />
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-14" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="485" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
