@@ -309,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-39" value="拨打电话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="286" y="484" width="25" height="186" as="geometry" />
+          <mxGeometry x="254" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-40" value="接听电话" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="381" y="505" width="25" height="186" as="geometry" />
