@@ -237,7 +237,7 @@
           <mxGeometry x="535" y="446" width="25" height="186" as="geometry" />
         </mxCell>
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-23" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="562" y="446" width="25" height="186" as="geometry" />
+          <mxGeometry x="560" y="446" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
