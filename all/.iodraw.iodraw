@@ -374,8 +374,8 @@
         <mxCell id="VWK9lPoYkVwGlbRxqz6J-60" value="更新App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="950" y="540" width="25" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-61" value="安装App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="476" width="25" height="186" as="geometry" />
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-61" value="运行App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="893" y="615" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
