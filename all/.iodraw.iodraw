@@ -347,8 +347,8 @@
             <mxPoint x="825.97" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-52" value="WiFi连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="507" width="25" height="186" as="geometry" />
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-53" value="发送文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="726" y="456" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
