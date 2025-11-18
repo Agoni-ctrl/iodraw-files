@@ -287,8 +287,8 @@
             <mxPoint x="677.97" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-32" value="删除短信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="456" width="25" height="186" as="geometry" />
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-32" value="查看文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="638" y="443" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
