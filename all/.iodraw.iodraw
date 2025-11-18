@@ -365,7 +365,7 @@
             <mxPoint x="950.97" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWK9lPoYkVwGlbRxqz6J-58" value="热点共享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VWK9lPoYkVwGlbRxqz6J-58" value="安装App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1065" y="446" width="25" height="186" as="geometry" />
         </mxCell>
       </root>
