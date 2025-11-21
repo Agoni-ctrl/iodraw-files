@@ -508,7 +508,10 @@
           <mxGeometry x="510" y="531" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u34pIC4yk1oMVEqFRRO5-38" value="W cnn ×Fcnn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="843" y="324" width="60" height="30" as="geometry" />
+          <mxGeometry x="843" y="324" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u34pIC4yk1oMVEqFRRO5-39" value="W cnn ×Fvit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="833" y="550" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
