@@ -507,7 +507,7 @@
         <mxCell id="u34pIC4yk1oMVEqFRRO5-37" value="Socc" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="531" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u34pIC4yk1oMVEqFRRO5-38" value="W cnn Fcnn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="u34pIC4yk1oMVEqFRRO5-38" value="&#xa;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;⚫&lt;/span&gt;&#xa;&#xa;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="843" y="324" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
