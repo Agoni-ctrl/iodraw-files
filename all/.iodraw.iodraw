@@ -459,8 +459,8 @@
             <mxPoint x="829" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u34pIC4yk1oMVEqFRRO5-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657" y="459" width="60" height="30" as="geometry" />
+        <mxCell id="u34pIC4yk1oMVEqFRRO5-22" value="W cnn =&lt;span style=&quot;color: rgb(15, 17, 21); font-family: var(--ds-font-family-code); text-align: start; background-color: initial;&quot;&gt;1 - λ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: var(--ds-font-family-code); text-align: start; background-color: initial;&quot;&gt;⚫ S occ&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="628" y="246" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
