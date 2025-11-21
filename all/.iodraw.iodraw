@@ -420,8 +420,8 @@
             <mxPoint x="453" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u34pIC4yk1oMVEqFRRO5-9" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="506" y="355" width="60" height="30" as="geometry" />
+        <mxCell id="u34pIC4yk1oMVEqFRRO5-9" value="Occlusion&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Predictor&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338" y="333" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
