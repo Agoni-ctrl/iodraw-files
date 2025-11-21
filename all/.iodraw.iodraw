@@ -501,6 +501,9 @@
         <mxCell id="u34pIC4yk1oMVEqFRRO5-35" value="F cnn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="316" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u34pIC4yk1oMVEqFRRO5-36" value="F vit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="538" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
