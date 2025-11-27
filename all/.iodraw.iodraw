@@ -177,7 +177,7 @@
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-14" value="不及格学生名录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" parent="1" vertex="1">
           <mxGeometry x="608" y="345" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J8ut2RsHbEEYW6r_PNJE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J8ut2RsHbEEYW6r_PNJE-2" edge="1">
+        <mxCell id="J8ut2RsHbEEYW6r_PNJE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="J8ut2RsHbEEYW6r_PNJE-2" target="zielfhsPbINiiu6k_Yso-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="513" y="455" as="sourcePoint" />
             <mxPoint x="498" y="211" as="targetPoint" />
@@ -196,7 +196,7 @@
           <mxGeometry x="548" y="284" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zielfhsPbINiiu6k_Yso-1" value="教师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
-          <mxGeometry x="539" y="143" width="120" height="60" as="geometry" />
+          <mxGeometry x="497" y="166" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
