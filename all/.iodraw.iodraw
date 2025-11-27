@@ -178,7 +178,7 @@
           <mxGeometry x="608" y="345" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-15" value="学生成绩数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13;fillColor=#CCCCFF;" parent="1" vertex="1">
-          <mxGeometry x="498" y="173" width="101" height="80" as="geometry" />
+          <mxGeometry x="498" y="171" width="101" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J8ut2RsHbEEYW6r_PNJE-2" target="J8ut2RsHbEEYW6r_PNJE-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
