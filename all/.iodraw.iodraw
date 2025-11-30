@@ -195,7 +195,7 @@
         <mxCell id="J8ut2RsHbEEYW6r_PNJE-19" value="学生成绩信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="548" y="284" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zielfhsPbINiiu6k_Yso-2" value="学生成绩数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+        <mxCell id="zielfhsPbINiiu6k_Yso-2" value="学生成绩数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="491" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
